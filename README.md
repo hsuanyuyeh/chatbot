@@ -7,6 +7,6 @@ Run the chatbot ui: streamlit run client_2.py
 Backend: \
 ![screenshot](https://github.com/hsuanyuyeh/chatbot/blob/main/image_backend.png)
 \
-Chatbot UI: \
 \
+Chatbot UI: \
 ![screenshot](https://github.com/hsuanyuyeh/chatbot/blob/main/image_ui.png)
