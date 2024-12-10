@@ -2,3 +2,7 @@ A LLama3 based chatbot, fastapi is the backend server, sending query to ollama p
 \
 Run the backend server: uvicorn server:app --host 0.0.0.0 --port 8000\
 Run the chatbot ui: streamlit run client_2.py\
+
+![screenshot](https://github.com/hsuanyuyeh/chatbot/blob/main/image_backend.png)
+\
+![screenshot](https://github.com/hsuanyuyeh/chatbot/blob/main/image_ui.png)
